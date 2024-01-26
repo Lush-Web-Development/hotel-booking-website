@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "659f0cee62553018c8978085"
+  },
+  "room": "Non-deluxe Room 5",
+  "room_id": "6584a7cb32019a85889ab049",
+  "user_id": "659998549a0e4cce994c968b",
+  "from_date": "2024-01-29",
+  "to_date": "2024-02-03",
+  "total_days": 6,
+  "total_amount": 840,
+  "transaction_id": "1234",
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-01-10T21:32:30.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T10:13:50.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659f0e16a5f1b34045df2302"
+  },
+  "room": "Deluxe Room 2",
+  "room_id": "6584a7cb32019a85889ab042",
+  "user_id": "659998549a0e4cce994c968b",
+  "from_date": "2024-02-05",
+  "to_date": "2024-02-12",
+  "total_days": 8,
+  "total_amount": 1280,
+  "transaction_id": "1235",
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-01-10T21:37:26.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:46:22.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a03323eb900b3940cd6346"
+  },
+  "room": "Non-deluxe Room 2",
+  "room_id": "6584a7cb32019a85889ab043",
+  "user_id": "659998549a0e4cce994c968b",
+  "from_date": "2024-01-24",
+  "to_date": "2024-01-30",
+  "total_days": 7,
+  "total_amount": 840,
+  "transaction_id": "1236",
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-01-11T18:27:48.196Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T19:15:47.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a50962f1cc51dab6b10bbc"
+  },
+  "room": "Deluxe Room 4",
+  "room_id": "6584a7cb32019a85889ab046",
+  "user_id": "65999a2f9a0e4cce994c968d",
+  "from_date": "2024-01-24",
+  "to_date": "2024-01-31",
+  "total_days": 8,
+  "total_amount": 1440,
+  "transaction_id": "1237",
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2024-01-15T10:30:58.384Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T10:31:33.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a639551c0c94bacd0d0551"
+  },
+  "room": "Deluxe Room 3",
+  "room_id": "6584a7cb32019a85889ab044",
+  "user_id": "659998549a0e4cce994c968b",
+  "from_date": "2024-01-16",
+  "to_date": "2024-01-19",
+  "total_days": 4,
+  "total_amount": 680,
+  "transaction_id": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-01-16T08:07:49.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T08:07:49.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a639701c0c94bacd0d0559"
+  },
+  "room": "Deluxe Room 7",
+  "room_id": "6584a7cb32019a85889ab04c",
+  "user_id": "659998549a0e4cce994c968b",
+  "from_date": "2024-01-24",
+  "to_date": "2024-01-27",
+  "total_days": 4,
+  "total_amount": 840,
+  "transaction_id": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-01-16T08:08:16.560Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T08:08:16.560Z"
+  },
+  "__v": 0
+}]
